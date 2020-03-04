@@ -1,4 +1,4 @@
-# CSRNET_DEPLOYMENT
+# SIZE.AI
 
 This Web Application was Devleoped using: Python, Flask, Pytorch, and HTML
 
