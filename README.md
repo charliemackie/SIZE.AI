@@ -1,6 +1,6 @@
 # SIZE.AI
 
-This Web Application was Devleoped using: Python, Flask, Pytorch, and HTML
+This Web Application was developed using: Python, Flask, Pytorch, and HTML
 
 The CSRNet DNN Model, Training, and Testing, was adapted from: https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/
 
