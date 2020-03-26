@@ -1,5 +1,4 @@
 Flask==1.0.3
-torch-1.0.0-cp37-none-macosx_10_7_x86_64.whl
 torchvision==0.2.1
 numpy==1.16.4
 Pillow==6.2.0
